@@ -1,3 +1,5 @@
+package lab7;
+
 public class FullTimeEmployee extends Employee {
     private double basicSalary;
     private double bonus;

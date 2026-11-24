@@ -1,3 +1,5 @@
+package lab7;
+
 public class PartTimeEmployee extends Employee {
     private double hourlyRate;
     private double hoursWorked;
